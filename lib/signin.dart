@@ -44,7 +44,7 @@ class SignIn extends StatelessWidget {
                               child: TextField(
                                 decoration: InputDecoration(
                                     border: OutlineInputBorder(),
-                                    hintText: 'Phone'),
+                                    hintText: 'Email'),
                               )),
                         ),
                         const Padding(
